@@ -1,16 +1,70 @@
-# React + Vite
+# Suryapura Gram Vikas Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive rural development portal built using React.js, Vite, and Tailwind CSS. The portal showcases village development initiatives, education programs, farming support, infrastructure projects, panchayat services, and community engagement activities.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://suryapura-gram-vikas-portal-ten.vercel.app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive design for desktop, tablet, and mobile devices
+* Modern hero section with village development highlights
+* About Village section
+* Education and Digital Learning Initiative
+* Farming and Agricultural Support
+* Road and Infrastructure Development
+* Panchayat Services Dashboard
+* Village Statistics and Progress Indicators
+* Community Gallery
+* Latest News and Updates
+* Contact and Support Section
+* Social Media Post Mockups
+* Mobile View Showcase
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+## Project Structure
+
+```text
+src/
+├── components/
+├── assets/
+├── mockups/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## Installation
+
+```bash
+npm install
+```
+
+## Run Development Server
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Project Goal
+
+The objective of this project is to create a simple, accessible, and user-friendly digital platform that promotes rural development and showcases the progress of Suryapura village through education, agriculture, infrastructure, and digital governance initiatives.
+
+## Author
+
+Sanjana Kesharwani
